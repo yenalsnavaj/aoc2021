@@ -7,4 +7,7 @@ func main() {
 
     day2("input/day2.txt")
     day2_pt2("input/day2.txt")
+
+    day3("input/day3.txt")
+    day3_pt2("input/day3.txt")
 }
